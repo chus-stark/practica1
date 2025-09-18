@@ -22,7 +22,15 @@
         <header>
             <!-- place navbar here -->
         </header>
-        <main></main>
+        <main>
+            <h1>HOLA</h1>
+            <div class="card">
+                <h4 class="card-img-top"></h4>
+                <p class=""> grado y grupo </p>
+                <p class=""> grado y grupo </p>
+                <p class=""> grado y grupo </p>
+            </div>
+        </main>
         <footer>
             <!-- place footer here -->
         </footer>
